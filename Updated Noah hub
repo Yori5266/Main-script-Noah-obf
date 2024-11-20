@@ -4,6 +4,7 @@ local HttpService = game:GetService("HttpService")
 _G.GameList = {
     [537413528] = "https://raw.githubusercontent.com/Yori5266/Noah-hub/refs/heads/main/Protected_7690067736633346.txt",  -- Noah Hub (Build A Boat)
     [2753915549] = "https://raw.githubusercontent.com/Yori5266/Blox-fruit-/refs/heads/main/Protected_7617721658592161.txt", -- Blox Fruit (ID ที่ถูกต้อง)
+    [7449423635] = "https://raw.githubusercontent.com/Yori5266/Blox-fruit-/refs/heads/main/Protected_7617721658592161.txt",
 }
 
 -- ตรวจสอบว่าเกมปัจจุบันอยู่ในลิสต์หรือไม่
